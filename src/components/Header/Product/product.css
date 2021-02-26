@@ -1,0 +1,21 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin: 0 5px 10px 0;
+    padding-bottom: 5px;
+}
+.product-name{
+    color: tomato;
+    font-weight: 600;
+    margin-left: 50px;
+}
+.main-button{
+    background-color: green;
+    color: white;
+    border: 1px solid gray;
+    border-radius: 3px;
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    cursor: pointer;
+}
